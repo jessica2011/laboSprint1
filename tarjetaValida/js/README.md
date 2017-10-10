@@ -8,7 +8,7 @@
 - - - - - - -  --- - - - - - - - -- -
 
 ### 1. DIAGRAMAa DE FLUJO
-![DF_vaalidCard](validCard.png "Diagrama Flujo ValidCard")
+![DF_vaalidCard](diagramaFlujoCarD.png "Diagrama Flujo ValidCard")
 
 
 
