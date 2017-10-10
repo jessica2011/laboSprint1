@@ -7,10 +7,9 @@
 
 - - - - - - -  --- - - - - - - - -- -
 
-### 1. DIAGRAMAa DE FLUJO
-![imagenDFcard](diagramaFlujoCard.png)
+### 1. DIAGRAMA DE FLUJO
 
-
+![DFcard](diagramaFlujoCard.png "Diagrama Flujo ValidCard")
 
 ### 2. PSEUDOCÓDIGO
 
